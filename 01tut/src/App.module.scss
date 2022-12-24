@@ -9,3 +9,12 @@
   border: 1px solid goldenrod;
   margin: auto;
 }
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-start;
+  align-items: center;
+  overflow-y: auto;
+}

@@ -1,10 +1,9 @@
 import React from "react";
-import styles from "./Content.module.scss";
 import ItemList from "./ItemList";
 
 const Content = ({ items, handleCheck, handleDelete }) => {
   return (
-    <main className={styles.main}>
+    <>
       {!items.length ? (
         <p color="green">Your list is empty</p>
       ) : (
@@ -14,7 +13,7 @@ const Content = ({ items, handleCheck, handleDelete }) => {
           handleDelete={handleDelete}
         />
       )}
-    </main>
+    </>
   );
 };
 
