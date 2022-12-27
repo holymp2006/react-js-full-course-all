@@ -1,5 +1,5 @@
 import styles from "./App.module.scss";
-import Content from "./Content";
+import Table from "./Table";
 import Nav from "./Nav";
 import { useState, useEffect } from "react";
 
@@ -38,7 +38,7 @@ function App() {
   return (
     <div className={styles.App}>
       <Nav route={route} routes={routes} setRoute={setRoute} />
-      <Content body={body} />
+      <Table body={body} />
     </div>
   );
 }
