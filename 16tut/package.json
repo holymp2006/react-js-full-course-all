@@ -1,7 +1,7 @@
 {
   "name": "16tut",
   "version": "0.1.0",
-  "homepage": "https://holymp2006.github.io/react-js-full-course-all/16tut",
+  "homepage": "https://holymp2006.github.io/react-js-full-course-all",
   "private": true,
   "dependencies": {
     "axios": "^1.2.2",
