@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-js-full-course-all/16tut/static/css/main.4ab54d94.css",
-    "main.js": "/react-js-full-course-all/16tut/static/js/main.1160346e.js",
-    "index.html": "/react-js-full-course-all/16tut/index.html",
-    "main.4ab54d94.css.map": "/react-js-full-course-all/16tut/static/css/main.4ab54d94.css.map",
-    "main.1160346e.js.map": "/react-js-full-course-all/16tut/static/js/main.1160346e.js.map"
+    "main.css": "/react-js-full-course-all/static/css/main.4ab54d94.css",
+    "main.js": "/react-js-full-course-all/static/js/main.1160346e.js",
+    "index.html": "/react-js-full-course-all/index.html",
+    "main.4ab54d94.css.map": "/react-js-full-course-all/static/css/main.4ab54d94.css.map",
+    "main.1160346e.js.map": "/react-js-full-course-all/static/js/main.1160346e.js.map"
   },
   "entrypoints": [
     "static/css/main.4ab54d94.css",
